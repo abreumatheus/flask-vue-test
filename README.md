@@ -1,4 +1,4 @@
-# zuplae-flask-rest-example
+# zuplae-flask-api-example
 
 ## Os docs da API podem ser acessados em <code>http://localhost:7000/</code>
 
